@@ -12,9 +12,7 @@ The circuit is designed in Proteus and consists of:
 - Input: 4x4 Matrix Keypad
 - Power Source: 5V DC
 
-## Circuit Schematic
-The following image illustrates the connection between the ATmega32 pins and the peripherals:
-![Project Flowchart](https://i.imgur.com/8fS1jU3.png)
+
 
 ### Connection Mapping:
 - PORTA (PA0 - PA7): Connected to LCD Data pins (D0 - D7) for 8-bit communication.
